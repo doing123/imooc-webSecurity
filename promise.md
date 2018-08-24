@@ -21,3 +21,11 @@
 
 * then展开使用，避免嵌套
 * 错误处理： 建议 catch， 也可以reject
+* promise.all
+* promise 与map
+* 实现队列
+* promise.resolve()
+* promise.reject()
+* promise.race()
+* fetch api
+* async/await
