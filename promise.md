@@ -1,4 +1,5 @@
 ## Promise
+
 * 异步操作避免界面冻结
     * 事件侦听与响应
     * 回调：Ajax、FileAPI
